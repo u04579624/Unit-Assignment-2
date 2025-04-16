@@ -11,7 +11,7 @@
           </p>
         </div>
         <div class="hero-image">
-            <img src="../assets/ProfilePic.JPG" alt="My Profile Picture">
+            <img src="~/assets/ProfilePic.JPG" alt="My Profile Picture">
         </div>
       </section>
       
