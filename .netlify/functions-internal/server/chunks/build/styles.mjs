@@ -8,8 +8,8 @@ const styles = {
   "app.vue?vue&type=style&index=0&lang.css": () => import('./entry-styles.gwmBJwiU.mjs').then(interopDefault),
   "components/CatFactWidget.vue": () => import('./CatFactWidget-styles.11BcGQpv.mjs').then(interopDefault),
   "components/WeatherWidget.vue": () => import('./WeatherWidget-styles.CJ0usFP1.mjs').then(interopDefault),
-  "node_modules/nuxt/dist/app/components/error-404.vue": () => import('./error-404-styles.BNmKahfp.mjs').then(interopDefault),
   "components/Navbar.vue": () => import('./Navbar-styles.DeIdmUmT.mjs').then(interopDefault),
+  "node_modules/nuxt/dist/app/components/error-404.vue": () => import('./error-404-styles.BNmKahfp.mjs').then(interopDefault),
   "node_modules/nuxt/dist/app/components/error-500.vue": () => import('./error-500-styles.Cx3AJg0u.mjs').then(interopDefault)
 };
 
