@@ -1,7 +1,6 @@
  
 # Nuxt
 .node_modules
-.output
 .nuxt
 dist
 .env
